@@ -3,7 +3,7 @@
 MediBot is an AI-driven medical chatbot designed to assist users with basic health inquiries and symptom-based guidance. It utilizes **Natural Language Processing (NLP)** and **AI embeddings** to provide relevant medical information efficiently.  
 
 # 🚀 Features  
-- Symptom-based health assistance  
+-Symptom-based health assistance  
 -AI-powered medical information retrieval  
 -Interactive chatbot experience  
 -Fast and efficient search using **FAISS**  
