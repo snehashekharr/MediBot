@@ -16,4 +16,5 @@ MediBot is an AI-driven medical chatbot designed to assist users with basic heal
   
 # 🎯 Future Improvements
 -Backend Integration: Implementing a dedicated backend using Flask or Django for better scalability, security, and performance.
+
 -Frontend Enhancement: Transitioning from Streamlit to React.js for a more modern, interactive, and user-friendly UI
